@@ -1,11 +1,11 @@
 
 :root {
-  --bg: #0b1220;
-  --bg-dark: #070d18;
-  --surface: #111827;
-  --text: #f8fafc;
-  --muted: #9ca3af;
-  --accent: #1f6ae1;
+  --bg: #081615;        /* deep ocean green-black */
+  --bg-dark: #050f0e;   /* abyss / deep water */
+  --surface: #0e2422;   /* wet stone / sea floor */
+  --text: #f8fafc;      /* clean white */
+  --muted: #9fb3af;     /* fog / sea mist */
+  --accent: #1fa89a;    /* deep teal */
   --border: rgba(255,255,255,0.08);
 }
 
